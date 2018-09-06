@@ -1,4 +1,4 @@
-# pari-programming
+# pair-programming
 Creating a many to many project for Maddie
 
  So it's your first day on the job at yelp and they are having a major issues managing the reviews for each customer. They need a way to manage the reviews given by certain customers about certain restauruants.  Yelp is asking for you to create a tracker for all the reviews.
